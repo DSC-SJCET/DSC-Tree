@@ -54,7 +54,6 @@ body {
 .card {
   text-decoration: none;
   width: 20vw;
-  background: black;
   height: 20vh;
   border-radius: 8px;
   display: flex;
@@ -66,6 +65,43 @@ body {
 .bi {
   color: #fff;
   font-size: 2.5rem;
+  transition: var(--transition);
+}
+
+.instagram {
+  background: #c13584;
+  background: linear-gradient(45deg, #c13584 0%, #e1306c 30%, #f56040 67%, #f77737 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c13584", endColorstr="#f77737", GradientType=1);
+}
+
+.youtube {
+  background: #ff4646;
+  background: linear-gradient(45deg, #ff0000 0%, #ff4949 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000", endColorstr="#ff4949", GradientType=1);
+}
+
+.twitter {
+  background: #1da1f2;
+  background: linear-gradient(45deg, #1da1f2 0%, #45b1ef 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1da1f2", endColorstr="#45b1ef", GradientType=1);
+}
+
+.github {
+  background: #2b3137;
+  background: linear-gradient(45deg, #2b3137 0%, #24292e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2b3137", endColorstr="#24292e", GradientType=1);
+}
+
+.browser {
+  background: #22b455;
+  background: linear-gradient(45deg, #22b455 0%, #0ab242 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22b455", endColorstr="#0ab242", GradientType=1);
+}
+
+.discord {
+  background: #7289da;
+  background: linear-gradient(45deg, #7289da 0%, #5473d8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7289da", endColorstr="#5473d8", GradientType=1);
 }
 
 h5 {
@@ -92,6 +128,9 @@ h2 {
 
 .allanime:hover {
   box-shadow: var(--anime);
+}
+.allanime:hover .bi {
+  font-size: 3rem;
 }
 
 @media (max-width: 700px) {
