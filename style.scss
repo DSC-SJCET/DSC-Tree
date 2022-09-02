@@ -22,7 +22,7 @@ body {
 .container {
 background: #fff;
     border-radius: 10px;
-    width: calc(100vw - 30px);
+    width: calc(100vw - 35px);
     min-height: calc(100vh - 30px);
     box-shadow: var(--shadow);
     display: flex;
@@ -115,9 +115,11 @@ background: #22b455;
 }
 
 
-
+h6,
 h5 {
     color: rgba(0, 0, 0, 0.668);
+    margin: 0;
+    padding: 0;
 }
 .red {
     color: red;

@@ -21,7 +21,7 @@ body {
 .container {
   background: #fff;
   border-radius: 10px;
-  width: calc(100vw - 30px);
+  width: calc(100vw - 35px);
   min-height: calc(100vh - 30px);
   box-shadow: var(--shadow);
   display: flex;
@@ -104,8 +104,11 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7289da", endColorstr="#5473d8", GradientType=1);
 }
 
+h6,
 h5 {
   color: rgba(0, 0, 0, 0.668);
+  margin: 0;
+  padding: 0;
 }
 
 .red {
