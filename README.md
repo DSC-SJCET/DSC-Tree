@@ -1,11 +1,26 @@
 # DSC-Tree
 
 Link Treeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee :)
+[Current Linktree](https://linktr.ee/dsc_sjcet)
 
-official DSC SJCET Palai Site- https://dsc-sjcet.herokuapp.com/
+v/s
 
-Landing and Verification Page of DSC SJCET Palai on Official GDSC- https://gdsc.community.dev/st-josephs-college-of-engineering-and-technology-palai/
+[New Linktree](https://rajatsandeepsen.github.io/DSC-Tree/intex.html)
 
-Current Linktree- https://linktr.ee/dsc_sjcet
+.
 
-Instagram Page- https://instagram.com/dscsjcet
+.
+
+.
+
+[official DSC SJCET Palai Site](https://dsc-sjcet.herokuapp.com/)
+
+[Chapter](https://gdsc.community.dev/st-josephs-college-of-engineering-and-technology-palai/)
+
+[Instagram Page](https://instagram.com/dscsjcet)
+
+[GitHub Org](https://github.com/DSC-SJCET)
+
+[Discord](https://discord.gg/9SHKyqhyvQ)
+
+[Whatsapp Group](https://chat.whatsapp.com/DDuHZDZSEfE94O0xggnhUA)

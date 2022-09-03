@@ -74,10 +74,10 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c13584", endColorstr="#f77737", GradientType=1);
 }
 
-.youtube {
-  background: #ff4646;
-  background: linear-gradient(45deg, #ff0000 0%, #ff4949 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff0000", endColorstr="#ff4949", GradientType=1);
+.chapter {
+  background: #db4437;
+  background: linear-gradient(45deg, #db4437 19%, #f4b400 52%, #0f9d58 85%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#db4437", endColorstr="#0f9d58", GradientType=1);
 }
 
 .twitter {
