@@ -1,17 +1,9 @@
 # DSC-Tree
 
-Link Treeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee :)
-[Current Linktree](https://linktr.ee/dsc_sjcet)
+[Current Linktree](https://linktr.ee/dsc_sjcet) v/s [New Linktree](https://rajatsandeepsen.github.io/DSC-Tree/intex.html)
 
-v/s
 
-[New Linktree](https://rajatsandeepsen.github.io/DSC-Tree/intex.html)
-
-.
-
-.
-
-.
+Link for Reference :-)
 
 [official DSC SJCET Palai Site](https://dsc-sjcet.herokuapp.com/)
 
