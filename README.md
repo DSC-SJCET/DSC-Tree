@@ -1,4 +1,4 @@
-# DSC-Tree
+### DSC-Tree
 
 [Current Linktree](https://linktr.ee/dsc_sjcet) v/s [New Linktree](https://bit.ly/3Bvtij7)
 
