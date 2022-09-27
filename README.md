@@ -3,7 +3,7 @@
 [Current Linktree](https://linktr.ee/dsc_sjcet) v/s [New Linktree](https://bit.ly/3Bvtij7)
 
 
-Link for Reference :-)
+
 
 [official DSC SJCET Palai Site](https://dsc-sjcet.herokuapp.com/)
 
@@ -15,4 +15,4 @@ Link for Reference :-)
 
 [Discord](https://discord.gg/9SHKyqhyvQ)
 
-[Whatsapp Group](https://chat.whatsapp.com/DDuHZDZSEfE94O0xggnhUA)
+[Whatsapp Group](https://chat.whatsapp.com/JVMjwJ0jNen0etixsLHQM7)
