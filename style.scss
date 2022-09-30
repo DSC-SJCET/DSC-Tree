@@ -1,7 +1,7 @@
 :root {
     --shadow : 0 1px 3px rgba(0, 0, 0, 0.12),
         0 1px 2px rgba(0, 0, 0, 0.24);
-    --transition : all 0.3s cubic-bezier(.25, .8, .25, 1);
+    --transition : linear 0.17s;
     --anime: 0 14px 28px rgba(0, 0, 0, 0.25),
         0 10px 10px rgba(0, 0, 0, 0.22);
 }
@@ -10,11 +10,11 @@
 //     src: url(font/ProductSans-Bold.woff);
 // }
 body {
-    background: hwb(0 50% 50%);
+    background: rgb(209, 209, 209)!important;
     font-family: 'Google','sans-serif';
     text-align: center;
     div.mybox {
-            box-shadow: var(--anime);
+            box-shadow: var(--shadow);
     }
 }
 #DSC-SJCET {
@@ -35,9 +35,10 @@ body {
         transition: var(--transition);
 }
 a>.bi:active,
+a>.bi:active:after,
 a>.bi:hover {
-            box-shadow: var(--anime);
-            font-size: 5rem;
+            // box-shadow: var(--anime);
+            font-size: 3.8rem;
 }
 .instagram {
     background: #c13584;
@@ -56,11 +57,11 @@ a>.bi:hover {
     }
 
 .twitter {
-    background: #1da1f2;
-        background: -moz-linear-gradient(45deg, #1da1f2 0%, #45b1ef 100%);
-        background: -webkit-linear-gradient(45deg, #1da1f2 0%, #45b1ef 100%);
-        background: linear-gradient(45deg, #1da1f2 0%, #45b1ef 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1da1f2', endColorstr='#45b1ef', GradientType=1);
+    background: #4285F4;;
+        background: -moz-linear-gradient(45deg, #4285F4 0%, #45b1ef 100%);
+        background: -webkit-linear-gradient(45deg, #4285F4 0%, #45b1ef 100%);
+        background: linear-gradient(45deg, #4285F4 0%, #45b1ef 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4285F4', endColorstr='#45b1ef', GradientType=1);
 }
 
 .github {
@@ -86,11 +87,15 @@ background: #22b455;
         background: linear-gradient(45deg, #7289da 0%, #5473d8 100%);
         filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7289da', endColorstr='#5473d8', GradientType=1);
 }
-@media (max-width:700px){
-#DSC-SJCET {
-    display: none;
+.mybox {
+    width: calc(100%);
+    height: calc(100%);
 }
-#SMALL-DSC-SJCET{
-    display: block;
-}
-}
+// @media (max-width:700px){
+// #DSC-SJCET {
+//     display: none;
+// }
+// #SMALL-DSC-SJCET{
+//     display: block;
+// }
+// }
