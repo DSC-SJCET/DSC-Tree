@@ -1,6 +1,6 @@
 ### DSC-Tree
 
-[Current Linktree](https://linktr.ee/dsc_sjcet) v/s [New Linktree](https://bit.ly/3ropgD7)
+Reference Links
 
 [official DSC SJCET Palai Site](https://dsc-sjcet.herokuapp.com/)
 
